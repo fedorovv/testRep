@@ -1,0 +1,6 @@
+<xml>
+<object id = "1">
+<name>Вася<\name>
+<surname>Петров<\surname>
+<\object>
+<\xml>
