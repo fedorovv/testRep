@@ -3,4 +3,8 @@
 <name>Вася<\name>
 <surname>Петров<\surname>
 <\object>
+<object id = "2">
+<name>Иван<\name>
+<surname>Иванов<\surname>
+<\object>
 <\xml>
